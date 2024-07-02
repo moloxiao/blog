@@ -1,7 +1,7 @@
 {
-    "name": "Shan Blog",
-    "short_name": "Shan Blog",
-    "start_url": "https://moloxiao.github.io/blog/",
+    "name": "shan's blog",
+    "short_name": "shan's blog",
+    "start_url": "http://localhost:1313/blog/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
