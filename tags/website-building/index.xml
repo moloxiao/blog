@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on shan&#39;s blog</title>
-    <link>https://moloxiao.github.io/posts/</link>
-    <description>Recent content in Posts on shan&#39;s blog</description>
+    <title>Website Building on shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/website-building/</link>
+    <description>Recent content in Website Building on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jul 2024 10:14:57 +1200</lastBuildDate>
-    <atom:link href="https://moloxiao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moloxiao.github.io/tags/website-building/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting a blog accepted by Google AdSense</title>
       <link>https://moloxiao.github.io/posts/getting-a-blog-accepted-by-google-adsense/</link>
@@ -15,18 +15,6 @@
       <guid>https://moloxiao.github.io/posts/getting-a-blog-accepted-by-google-adsense/</guid>
       <description>When I first tried to sign up for Google AdSense, I got turned down. Here are the reasons why(the reasons Google gave for turning me down) :
 We do not allow Google-served ads on screens: without content or with low value content, that are under construction, that are used for alerts, navigation or other behavioural purposes. So Getting a blog accepted by Google AdSense means you need to creating high quality sites.</description>
-    </item>
-    <item>
-      <title>Oduio Roadmap</title>
-      <link>https://moloxiao.github.io/posts/oduio-roadmap/</link>
-      <pubDate>Wed, 03 Jul 2024 14:37:16 +1200</pubDate>
-      <guid>https://moloxiao.github.io/posts/oduio-roadmap/</guid>
-      <description>last updated on : 2024-07-03
-This page displays basic information about the Oduio app,
-Oduio means: oh, yes, oh. &amp;lsquo;o&amp;rsquo; stands for &amp;lsquo;oh,&amp;rsquo; &amp;lsquo;dui&amp;rsquo; means &amp;lsquo;yes&amp;rsquo; in Chinese pinyin, and &amp;lsquo;o&amp;rsquo; stands for &amp;lsquo;oh.&amp;rsquo;
-It is used to express the feeling of a sudden realization. In chinese we say : &amp;lsquo;恍然大悟&amp;rsquo;.
-Now Now means plans in progress. Current list :
-update news template UI Set the homepage as the LandingPage introduction page, and change the admin dashboard homepage to &amp;lsquo;/home&amp;rsquo; waiting to be scheduled TODO task management module; includes Goal attribute support.</description>
     </item>
     <item>
       <title>Create a blog using Hugo</title>
