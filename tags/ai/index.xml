@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/ai/</link>
+    <description>Recent content in AI on shan&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 14:52:22 +1200</lastBuildDate>
+    <atom:link href="https://moloxiao.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use Yolo to Analyze Youth Football Matches</title>
+      <link>https://moloxiao.github.io/posts/use-yolo-to-analyze-youth-football-matches/</link>
+      <pubDate>Wed, 03 Jul 2024 14:52:22 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/use-yolo-to-analyze-youth-football-matches/</guid>
+      <description>I discuss youth soccer games with my 10-year-old son. I think it&amp;rsquo;s important to first help him understand when making certain decisions is beneficial. So, I&amp;rsquo;m looking for a way to help young athletes develop their decision-making skills.
+One important tool for this is watching game videos.
+While watching and learning from game videos together, I started thinking about some questions:
+Is there a connection between teams that run more and winning?</description>
+    </item>
+  </channel>
+</rss>
