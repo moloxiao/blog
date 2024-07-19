@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vite on shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/vite/</link>
+    <description>Recent content in Vite on shan&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 15:57:51 +1200</lastBuildDate>
+    <atom:link href="https://moloxiao.github.io/tags/vite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minified React Error #130</title>
+      <link>https://moloxiao.github.io/posts/minified-react-error-%23130/</link>
+      <pubDate>Fri, 19 Jul 2024 15:57:51 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/minified-react-error-%23130/</guid>
+      <description>When I am unable to find an answer using ChatGPT, Gemini, claude, or Google, I believe it is necessary to document the steps I take to solve the problem.
+The problem is :
+Unexpected Application Error! Minified React error #130; visit https://reactjs.org/docs/error-decoder.html?invariant=130&amp;amp;args[]=undefined&amp;amp;args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings. Error: Minified React error #130; visit https://reactjs.org/docs/error-decoder.html?invariant=130&amp;amp;args[]=undefined&amp;amp;args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.</description>
+    </item>
+  </channel>
+</rss>
