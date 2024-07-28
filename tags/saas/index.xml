@@ -6,8 +6,17 @@
     <description>Recent content in SaaS on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2024 14:37:16 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 11:49:42 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/tags/saas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A First Look At Resume Manager</title>
+      <link>https://moloxiao.github.io/posts/a-first-look-at-resume-manager/</link>
+      <pubDate>Tue, 23 Jul 2024 11:49:42 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/a-first-look-at-resume-manager/</guid>
+      <description>Hello, my friends. Last week, I published a new product: Resume Manager. I have two reasons for creating this product:
+to manage my resume and application process, to create a platform for new AI Currently, it is still a demo version, but if you want to try it, you can get started now.
+STEP BY STEP visit Resume Manager, click &amp;lsquo;Get Started -&amp;gt;&amp;rsquo; login create new resume change theme Click &amp;lsquo;Next&amp;rsquo; to sequentially edit Personal Detail, Summary, Professional Experience, Education, and Skills.</description>
+    </item>
     <item>
       <title>Oduio Roadmap</title>
       <link>https://moloxiao.github.io/posts/oduio-roadmap/</link>

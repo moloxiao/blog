@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ResumeManager on shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/resumemanager/</link>
+    <description>Recent content in ResumeManager on shan&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 11:49:42 +1200</lastBuildDate>
+    <atom:link href="https://moloxiao.github.io/tags/resumemanager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A First Look At Resume Manager</title>
+      <link>https://moloxiao.github.io/posts/a-first-look-at-resume-manager/</link>
+      <pubDate>Tue, 23 Jul 2024 11:49:42 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/a-first-look-at-resume-manager/</guid>
+      <description>Hello, my friends. Last week, I published a new product: Resume Manager. I have two reasons for creating this product:
+to manage my resume and application process, to create a platform for new AI Currently, it is still a demo version, but if you want to try it, you can get started now.
+STEP BY STEP visit Resume Manager, click &amp;lsquo;Get Started -&amp;gt;&amp;rsquo; login create new resume change theme Click &amp;lsquo;Next&amp;rsquo; to sequentially edit Personal Detail, Summary, Professional Experience, Education, and Skills.</description>
+    </item>
+  </channel>
+</rss>
