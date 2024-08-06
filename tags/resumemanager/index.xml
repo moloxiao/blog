@@ -6,8 +6,19 @@
     <description>Recent content in ResumeManager on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 11:49:42 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 15:46:24 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/tags/resumemanager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Features in Resume Manager 2</title>
+      <link>https://moloxiao.github.io/posts/new-features-in-resume-manager-2/</link>
+      <pubDate>Tue, 06 Aug 2024 15:46:24 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/new-features-in-resume-manager-2/</guid>
+      <description>Hello, all my friends. Thank you for all your ideas and feedback, help this product better.
+We&amp;rsquo;re back! The last update was 18 days ago. This week I use 6 hours to add new feature : Job Application Task Manager. Click here to experience it now.
+Here are some of the main interfaces :
+New Dashboard Because we added the job application manager, the dashboard has changed.
+Job Application List We can add new job applications and change the application status on this page.</description>
+    </item>
     <item>
       <title>A First Look At Resume Manager</title>
       <link>https://moloxiao.github.io/posts/a-first-look-at-resume-manager/</link>
