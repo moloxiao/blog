@@ -6,8 +6,17 @@
     <description>Recent content on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2024 20:00:29 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 15:29:03 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set Up Google Analytics a Step by Step Guide to Getting Your Measurement Id</title>
+      <link>https://moloxiao.github.io/posts/how-to-set-up-google-analytics-a-step-by-step-guide-to-getting-your-measurement-id/</link>
+      <pubDate>Wed, 07 Aug 2024 15:29:03 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/how-to-set-up-google-analytics-a-step-by-step-guide-to-getting-your-measurement-id/</guid>
+      <description>We use Google Analytics to track the number of visitors to our website, including information about when they visit and how they interact with our site. This helps us understand our audience better and improve our online presence.
+when you have a website and want your software engineer to support it with Google Analytics, You need to do two things:
+Create a New Property Get the Measurement ID and Send It to Your Software Engineer here is a step-by-step guide</description>
+    </item>
     <item>
       <title>How to Move Your GoDaddy Domain to Cloudflare a Step by Step Guide</title>
       <link>https://moloxiao.github.io/posts/how-to-move-your-godaddy-domain-to-cloudflare-a-step-by-step-guide/</link>

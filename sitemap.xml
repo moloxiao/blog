@@ -3,36 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://moloxiao.github.io/tags/cloudflare/</loc>
-    <lastmod>2024-08-06T20:00:29+12:00</lastmod>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/conerstonechurch.org/</loc>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/tags/domain/</loc>
-    <lastmod>2024-08-06T20:00:29+12:00</lastmod>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/tags/godaddy/</loc>
-    <lastmod>2024-08-06T20:00:29+12:00</lastmod>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/posts/how-to-move-your-godaddy-domain-to-cloudflare-a-step-by-step-guide/</loc>
-    <lastmod>2024-08-06T20:00:29+12:00</lastmod>
+    <loc>https://moloxiao.github.io/posts/how-to-set-up-google-analytics-a-step-by-step-guide-to-getting-your-measurement-id/</loc>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/posts/</loc>
-    <lastmod>2024-08-06T20:00:29+12:00</lastmod>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/</loc>
-    <lastmod>2024-08-06T20:00:29+12:00</lastmod>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/tags/</loc>
+    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/posts/how-to-move-your-godaddy-domain-to-cloudflare-a-step-by-step-guide/</loc>
     <lastmod>2024-08-06T20:00:29+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
