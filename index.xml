@@ -6,8 +6,19 @@
     <description>Recent content on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 09:26:40 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 10:53:43 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Integration : it&#39;s all about the adapter</title>
+      <link>https://moloxiao.github.io/posts/application-integration/</link>
+      <pubDate>Tue, 13 Aug 2024 10:53:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/application-integration/</guid>
+      <description>Integration development is not a standardized term, so there isn&amp;rsquo;t a dedicated page for it on Wikipedia.
+In this article, it defines application integration as the process of enabling individual applications to communicate with each other.
+For me, integration means adapter. Let me explain it.
+Basic skills Fundamental skills :
+Protocols : HTTP, XML, messaging protocols, web services, and web sockets are some of the most common protocols used in application integration.</description>
+    </item>
     <item>
       <title>Six Actionable Steps for Finding a Job</title>
       <link>https://moloxiao.github.io/posts/six-actionable-steps-for-finding-a-job/</link>

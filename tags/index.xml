@@ -6,8 +6,15 @@
     <description>Recent content in Tags on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 09:26:40 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 10:53:43 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://moloxiao.github.io/tags/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://moloxiao.github.io/tags/coding/</guid>
+      <description></description>
+    </item>
     <item>
       <title>JobHunting</title>
       <link>https://moloxiao.github.io/tags/jobhunting/</link>
@@ -55,6 +62,13 @@
       <link>https://moloxiao.github.io/tags/saas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://moloxiao.github.io/tags/saas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vscode</title>
+      <link>https://moloxiao.github.io/tags/vscode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://moloxiao.github.io/tags/vscode/</guid>
       <description></description>
     </item>
     <item>

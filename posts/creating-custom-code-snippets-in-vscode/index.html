@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Creating Custom Code Snippets in Vscode | shan&#39;s blog</title>
-<meta name="keywords" content="">
+<meta name="keywords" content="Vscode">
 <meta name="description" content="VSCode provides a powerful snippet feature that helps developers boost their coding efficiency and consistency. This blog will guide you through creating custom code snippets in VSCode, specifically for TypeScript and React projects.
 What are Code Snippets? Code snippets are predefined chunks of code that you can quickly insert into your code files using simple shortcuts. They are extremely useful for repetitive tasks or commonly used code templates.
 Steps to Manually Create Custom Code Snippets Open VSCode Settings First, open VSCode and press Cmd &#43; Shift &#43; P (Mac) or Ctrl &#43; Shift &#43; P (Windows/Linux) to open the command palette.">
@@ -104,7 +104,7 @@ Steps to Manually Create Custom Code Snippets Open VSCode Settings First, open V
   "name": "Creating Custom Code Snippets in Vscode",
   "description": "VSCode provides a powerful snippet feature that helps developers boost their coding efficiency and consistency. This blog will guide you through creating custom code snippets in VSCode, specifically for TypeScript and React projects.\nWhat are Code Snippets? Code snippets are predefined chunks of code that you can quickly insert into your code files using simple shortcuts. They are extremely useful for repetitive tasks or commonly used code templates.\nSteps to Manually Create Custom Code Snippets Open VSCode Settings First, open VSCode and press Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows/Linux) to open the command palette.",
   "keywords": [
-    
+    "Vscode"
   ],
   "articleBody": "VSCode provides a powerful snippet feature that helps developers boost their coding efficiency and consistency. This blog will guide you through creating custom code snippets in VSCode, specifically for TypeScript and React projects.\nWhat are Code Snippets? Code snippets are predefined chunks of code that you can quickly insert into your code files using simple shortcuts. They are extremely useful for repetitive tasks or commonly used code templates.\nSteps to Manually Create Custom Code Snippets Open VSCode Settings First, open VSCode and press Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows/Linux) to open the command palette. Type Preferences: Configure User Snippets and select it.\nSelect File Type In the list that appears, choose typescriptreact.json. If this file doesn’t exist, VSCode will automatically create it for you.\nAdd Custom Code Snippet In the opened typescriptreact.json file, add your desired code snippet. Below is an example snippet for creating a React functional component in TypeScript:\n{ \"React Arrow Function Component Export (TypeScript)\": { \"prefix\": \"rafce\", \"body\": [ \"import React from 'react';\", \"\", \"const ${1:${TM_FILENAME_BASE}}: React.FC = () =\u003e {\", \" return (\", \" $1\", \" );\", \"};\", \"\", \"export default $1;\" ], \"description\": \"Create a React functional component with export using TypeScript\" } } Snippet Explanation :\nprefix: The shortcut for the snippet. Typing rafce in a .tsx file and pressing Tab will trigger this snippet. body: The content of the snippet. ${1:${TM_FILENAME_BASE}} automatically inserts the current file name (without extension) as the default component name. description: A description of the snippet, which appears in the snippet selection list. Automatic Filename Insertion: ${TM_FILENAME_BASE} is a special variable that represents the current file name (without extension). This ensures that the component name matches the file name. Placeholders: ${1:…} and $1 are placeholders that allow the cursor to automatically jump to the corresponding position after the snippet is inserted, making further editing convenient. Using the Custom Code Snippet Once the snippet is created, type rafce in a .tsx file and press Tab. The snippet will expand and generate the following code, using the current file name as the default component name:\nimport React from 'react'; const FileName: React.FC = () =\u003e { return ( FileName ); }; export default FileName; Conclusion Manually creating custom code snippets is a powerful feature in VSCode that can significantly enhance your development efficiency and code consistency. With simple configuration, you can create various snippets tailored to your needs for different programming languages and frameworks.\nWhether you are a beginner or an experienced developer, leveraging the snippet feature can make your coding experience smoother and more efficient. Try it out in your project today!\n",
   "wordCount" : "440",
@@ -259,6 +259,7 @@ export default FileName;
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://moloxiao.github.io/tags/vscode/">Vscode</a></li>
     </ul>
   </footer>
 </article>
