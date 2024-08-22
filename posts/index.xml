@@ -6,8 +6,16 @@
     <description>Recent content in Posts on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 10:53:43 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 15:40:20 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Continuous Improvement System</title>
+      <link>https://moloxiao.github.io/posts/creating-a-continuous-improvement-system/</link>
+      <pubDate>Tue, 20 Aug 2024 15:40:20 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/creating-a-continuous-improvement-system/</guid>
+      <description>When we want to accomplish something or achieve a goal, sometimes we succeed, and sometimes we face challenges. Can we find a method that makes it easier to succeed? My answer is PDCA(plan–do–check–adjust). Just do it, let it fail if necessary, and then find a new way to fix it.
+What is a system The goal of all science, is to substitute visible complexity for invisible simplicity. - John Baptiste Perrin a system contains 5 part :</description>
+    </item>
     <item>
       <title>Application Integration : it&#39;s all about the adapter</title>
       <link>https://moloxiao.github.io/posts/application-integration/</link>

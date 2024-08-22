@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SystemThinking on shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/systemthinking/</link>
+    <description>Recent content in SystemThinking on shan&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2024 15:40:20 +1200</lastBuildDate>
+    <atom:link href="https://moloxiao.github.io/tags/systemthinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Continuous Improvement System</title>
+      <link>https://moloxiao.github.io/posts/creating-a-continuous-improvement-system/</link>
+      <pubDate>Tue, 20 Aug 2024 15:40:20 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/creating-a-continuous-improvement-system/</guid>
+      <description>When we want to accomplish something or achieve a goal, sometimes we succeed, and sometimes we face challenges. Can we find a method that makes it easier to succeed? My answer is PDCA(plan–do–check–adjust). Just do it, let it fail if necessary, and then find a new way to fix it.
+What is a system The goal of all science, is to substitute visible complexity for invisible simplicity. - John Baptiste Perrin a system contains 5 part :</description>
+    </item>
+  </channel>
+</rss>

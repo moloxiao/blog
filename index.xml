@@ -6,8 +6,77 @@
     <description>Recent content on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 10:53:43 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 16:40:12 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preface</title>
+      <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/preface/</link>
+      <pubDate>Wed, 21 Aug 2024 10:53:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/preface/</guid>
+      <description>you&amp;rsquo;re going to understand what the successes look like and how you get them, and you&amp;rsquo;ll be able to repeat those patterns over and over again.
+TODO :
+[ ] LDAP Review</description>
+    </item>
+    <item>
+      <title>What is System Administration</title>
+      <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/what-is-system-administration/</link>
+      <pubDate>Wed, 21 Aug 2024 11:30:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/what-is-system-administration/</guid>
+      <description>The basics of system administration :
+organizational policies IT infrastructure services user and hardware provisioning routine maintenance troubleshooting managing potential issues Not contains in this book, like :
+automate workflow managed configrations computer settings automatically What is systems administration Servers Revisited Basically, a sys admin is responsible for their company&amp;rsquo;s IT service. Employees need these IT services so that they can be productive.
+System Administration Tasks Organizational Policies IT infrastructure User and Hardware Provisioning(Procurement-&amp;gt;Deployment-&amp;gt;Maintenance-&amp;gt;Retirement) Routine Maintenance Vendors Troubleshooting and Managing Issues In Case of Fire, Break Glass(You can&amp;rsquo;t account for everything but you can be prepared to recover from it.</description>
+    </item>
+    <item>
+      <title>Network and infrastructure services</title>
+      <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/networking-and-infrastructure-services/</link>
+      <pubDate>Wed, 21 Aug 2024 11:30:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/networking-and-infrastructure-services/</guid>
+      <description>We will cover what IT infrastructure services are and what their role is in system administration. We&amp;rsquo;ll also learn about server operating systems, virtualization, network services, DNS for web services, and how to troubleshoot network services.
+Physical infrastructure services Server Operating System Virtuallization(There are two ways you can run your services, either on dedicated hardware or on a virtualized instance on a server) Remote Access(the ability to connect to your infrastructure from anywhere in the world.</description>
+    </item>
+    <item>
+      <title>Software and Platform Services</title>
+      <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/software-and-platform-services/</link>
+      <pubDate>Thu, 22 Aug 2024 14:17:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/software-and-platform-services/</guid>
+      <description>Software services are the services that employs use that allow them to do their daily job functions. This can include applications like Word processors, Internet browsers, email clients, chat clients, and so on.
+Software Service Communication Services :
+The 5 best team chat apps for the workplace :
+Slack for a chat-powered workplace Microsoft Teams for large organizations broken down into teams Google Chat for Google Workspace users Discord for always-on voice chat Element for self-hosted team chat Open IM chat applications click here.</description>
+    </item>
+    <item>
+      <title>Directory Service</title>
+      <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/directory-service/</link>
+      <pubDate>Thu, 22 Aug 2024 16:40:12 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/directory-service/</guid>
+      <description>we&amp;rsquo;ll cover how two of the most popular directory services, Active Directory and OpenLDAP, work in action. We&amp;rsquo;ll explore the concept of centralized management and how this can help SysAdmins maintain and support all the different parts of an IT infrastructure.
+Introduction to Directory Services What is a Directory Service?
+It&amp;rsquo;s akin to a phone directory for a network, mapping resources like user accounts and network shares to their network addresses.</description>
+    </item>
+    <item>
+      <title>Creating a Continuous Improvement System</title>
+      <link>https://moloxiao.github.io/posts/creating-a-continuous-improvement-system/</link>
+      <pubDate>Tue, 20 Aug 2024 15:40:20 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/creating-a-continuous-improvement-system/</guid>
+      <description>When we want to accomplish something or achieve a goal, sometimes we succeed, and sometimes we face challenges. Can we find a method that makes it easier to succeed? My answer is PDCA(plan–do–check–adjust). Just do it, let it fail if necessary, and then find a new way to fix it.
+What is a system The goal of all science, is to substitute visible complexity for invisible simplicity. - John Baptiste Perrin a system contains 5 part :</description>
+    </item>
+    <item>
+      <title>Chapter 1 : The fundamentals of Coaching</title>
+      <link>https://moloxiao.github.io/books/youth-sports-coaching/chapter1-the-fundamentals-of-coaching/</link>
+      <pubDate>Thu, 15 Aug 2024 10:53:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/youth-sports-coaching/chapter1-the-fundamentals-of-coaching/</guid>
+      <description>Coach is a misnormer. What you really are is a facilitator and teacher.
+As a facilitator: Ensure a good experience for the kids. As a teacher: Teach skills effectively. </description>
+    </item>
+    <item>
+      <title>Chapter 1</title>
+      <link>https://moloxiao.github.io/books/quick-guide-to-print-production/chapter1/</link>
+      <pubDate>Wed, 14 Aug 2024 10:53:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/quick-guide-to-print-production/chapter1/</guid>
+      <description>Hello, Chapter1.</description>
+    </item>
     <item>
       <title>Application Integration : it&#39;s all about the adapter</title>
       <link>https://moloxiao.github.io/posts/application-integration/</link>
