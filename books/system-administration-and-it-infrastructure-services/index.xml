@@ -6,16 +6,15 @@
     <description>Recent content in System Administration and IT Infrastructure Services on shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2024 16:40:12 +1200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 19:12:12 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preface</title>
       <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/preface/</link>
       <pubDate>Wed, 21 Aug 2024 10:53:43 +1200</pubDate>
       <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/preface/</guid>
-      <description>you&amp;rsquo;re going to understand what the successes look like and how you get them, and you&amp;rsquo;ll be able to repeat those patterns over and over again.
-TODO :
-[ ] LDAP Review</description>
+      <description>I wrote this book while preparing for a System Administration job. It serves as a structured summary of my previous work, developed through studying Google&amp;rsquo;s course on &amp;lsquo;System Administration and IT Infrastructure Services&amp;rsquo; and it also functions as a quick-reference guide.
+I&amp;#39;m trying to understand what success looks like and how we can achieve it, so that we can repeat those patterns over and over again. </description>
     </item>
     <item>
       <title>What is System Administration</title>
@@ -53,6 +52,24 @@ Slack for a chat-powered workplace Microsoft Teams for large organizations broke
       <description>we&amp;rsquo;ll cover how two of the most popular directory services, Active Directory and OpenLDAP, work in action. We&amp;rsquo;ll explore the concept of centralized management and how this can help SysAdmins maintain and support all the different parts of an IT infrastructure.
 Introduction to Directory Services What is a Directory Service?
 It&amp;rsquo;s akin to a phone directory for a network, mapping resources like user accounts and network shares to their network addresses.</description>
+    </item>
+    <item>
+      <title>Data Recovery and Backups</title>
+      <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/data-recovery-and-backups/</link>
+      <pubDate>Fri, 23 Aug 2024 09:30:12 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/data-recovery-and-backups/</guid>
+      <description>we&amp;rsquo;re going to arm you with tools you need to be prepared for these accidents, so you can minimize the impact and loss of data.
+Data recovery, in general terms, is the process of trying to restore data after an unexpected event that results in data loss or corruption.
+Planning for Data Recovery Backing Up Your Data : you should only be backing up data that&amp;rsquo;s absolutely necessary for operations and can be found in another source.</description>
+    </item>
+    <item>
+      <title>System Administration Consultation</title>
+      <link>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/system-administration-consultation/</link>
+      <pubDate>Fri, 23 Aug 2024 19:12:12 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/system-administration-consultation/</guid>
+      <description>Scenario 1 You’re doing systems administration work for Network Funtime Company. Evaluate their current IT infrastructure needs and limitations, then provide at least five process improvements and rationale behind those improvements. Write a 200-400 word process review for this consultation. Remember, there’s no right or wrong answer, but make sure to provide your reasoning.
+Software Company :
+Network Funtime Company is a small company that builds open-source software. The company is made up software engineers, a few designers, one person in Human Resources (HR), and a small sales team.</description>
     </item>
   </channel>
 </rss>
