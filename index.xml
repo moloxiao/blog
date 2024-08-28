@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>shan&#39;s blog</title>
+    <title>Shan&#39;s blog</title>
     <link>https://moloxiao.github.io/</link>
-    <description>Recent content on shan&#39;s blog</description>
+    <description>Recent content on Shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2024 11:43:19 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:45:47 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preface</title>
@@ -70,6 +70,16 @@ Planning for Data Recovery Backing Up Your Data : you should only be backing up 
       <description>Scenario 1 You’re doing systems administration work for Network Funtime Company. Evaluate their current IT infrastructure needs and limitations, then provide at least five process improvements and rationale behind those improvements. Write a 200-400 word process review for this consultation. Remember, there’s no right or wrong answer, but make sure to provide your reasoning.
 Software Company :
 Network Funtime Company is a small company that builds open-source software. The company is made up software engineers, a few designers, one person in Human Resources (HR), and a small sales team.</description>
+    </item>
+    <item>
+      <title>How to Prepare for a Data Jobs</title>
+      <link>https://moloxiao.github.io/posts/how-to-prepare-for-a-data-jobs/</link>
+      <pubDate>Tue, 27 Aug 2024 18:45:47 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/how-to-prepare-for-a-data-jobs/</guid>
+      <description>Preparing for data jobs means writing a good resume and passing the job interview.
+I want to take immediate action, so I&amp;rsquo;ve set the following principles:
+Time allocation principle: Focus on securing interview opportunities before receiving any interviews; once an interview is secured, focus on interview preparation. Take action first, then reflect and improve as you go. Therefore, we start with the resume, which includes two important factors:
+A well-formatted resume.</description>
     </item>
     <item>
       <title>Data Jobs in 2024</title>
