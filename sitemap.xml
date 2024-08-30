@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://moloxiao.github.io/books/modern-woodworking/common-woodworking-products/</loc>
+    <lastmod>2024-08-29T17:22:43+12:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/preface/</loc>
     <lastmod>2024-08-21T10:53:43+12:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -37,12 +42,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://moloxiao.github.io/books/modern-woodworking/usnr-scanning-solution/</loc>
+    <lastmod>2024-08-30T10:21:03+12:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/books/</loc>
+    <lastmod>2024-08-30T10:21:03+12:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/books/modern-woodworking/</loc>
+    <lastmod>2024-08-30T10:21:03+12:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/</loc>
+    <lastmod>2024-08-30T10:21:03+12:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moloxiao.github.io/tags/data/</loc>
     <lastmod>2024-08-28T20:45:47+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/posts/how-to-prepare-for-a-data-jobs/</loc>
+    <loc>https://moloxiao.github.io/posts/how-to-prepare-for-data-jobs/</loc>
     <lastmod>2024-08-28T20:45:47+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -57,11 +82,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/</loc>
-    <lastmod>2024-08-28T20:45:47+12:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://moloxiao.github.io/tags/</loc>
     <lastmod>2024-08-28T20:45:47+12:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -69,11 +89,6 @@
   </url><url>
     <loc>https://moloxiao.github.io/posts/data-jobs-in-2024/</loc>
     <lastmod>2024-08-27T11:43:19+12:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/books/</loc>
-    <lastmod>2024-08-23T19:12:12+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -104,16 +119,6 @@
   </url><url>
     <loc>https://moloxiao.github.io/books/youth-sports-coaching/</loc>
     <lastmod>2024-08-15T10:53:43+12:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/books/quick-guide-to-print-production/chapter1/</loc>
-    <lastmod>2024-08-14T10:53:43+12:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/books/quick-guide-to-print-production/</loc>
-    <lastmod>2024-08-14T10:53:43+12:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
