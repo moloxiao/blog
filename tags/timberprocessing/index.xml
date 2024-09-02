@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TimberProcessing on Shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/timberprocessing/</link>
+    <description>Recent content in TimberProcessing on Shan&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Sep 2024 22:17:29 +1200</lastBuildDate>
+    <atom:link href="https://moloxiao.github.io/tags/timberprocessing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Method for Quickly Mastering the USNR Scanning System</title>
+      <link>https://moloxiao.github.io/posts/a-method-for-quickly-mastering-the-usnr-scanning-system/</link>
+      <pubDate>Mon, 02 Sep 2024 22:17:29 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/a-method-for-quickly-mastering-the-usnr-scanning-system/</guid>
+      <description>I have never used the USNR Scanning system before. This article outlines my plan for quickly mastering the system and developing the capability for ongoing maintenance and improvement.
+1 Goals &amp;amp; Metrics The goal can be divided into two stages :
+Proficiency : Become familiar with the USNR system as an assistant, understand the manual, learn the operating procedures, and handle common issues. Control : Understand the wood processing steps, and master the role of the USNR system at each step Tasks for Proficiency :</description>
+    </item>
+  </channel>
+</rss>
