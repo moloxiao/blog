@@ -6,7 +6,7 @@
     <description>Recent content on Shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 15:43:08 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 09:14:29 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preface</title>
@@ -25,6 +25,15 @@ Overview of the wood processing industry Common processes and workflows in wood 
       <guid>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/preface/</guid>
       <description>I wrote this book while preparing for a System Administration job. It serves as a structured summary of my previous work, developed through studying Google&amp;rsquo;s course on &amp;lsquo;System Administration and IT Infrastructure Services&amp;rsquo; and it also functions as a quick-reference guide.
 I&amp;#39;m trying to understand what success looks like and how we can achieve it, so that we can repeat those patterns over and over again. </description>
+    </item>
+    <item>
+      <title>Chapter 1 : The fundamentals of Coaching</title>
+      <link>https://moloxiao.github.io/books/youth-sports-coaching/chapter1-the-fundamentals-of-coaching/</link>
+      <pubDate>Thu, 15 Aug 2024 10:53:43 +1200</pubDate>
+      <guid>https://moloxiao.github.io/books/youth-sports-coaching/chapter1-the-fundamentals-of-coaching/</guid>
+      <description>Coach is a misnormer. What you really are is a facilitator and teacher.
+As a facilitator: Ensure a good experience for the kids. As a teacher: Teach skills effectively. 1 What is a good experience for the kids TODO
+2 The roles in the coaching team 3 Assessing Your Progress I learn this from a book &amp;lsquo;The Confident Coach&amp;rsquo;s Guide to Teaching Youth Soccer&amp;rsquo; By Joe Provey. This is a tutorial for football coaches, but I think it is suitable for any project.</description>
     </item>
     <item>
       <title>What is System Administration</title>
@@ -101,6 +110,14 @@ optimize wood recovery reduce waste Analyze data :
 identify improvement areas Conduct production simulations to evaluate performance and pinpoint strategic opportunities for optimization and enhancement Train :</description>
     </item>
     <item>
+      <title>Customize Your Resume According to the Job Description</title>
+      <link>https://moloxiao.github.io/posts/customize-your-resume-according-to-the-job-description/</link>
+      <pubDate>Thu, 05 Sep 2024 09:14:29 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/customize-your-resume-according-to-the-job-description/</guid>
+      <description>In the current Resume Manager application, the module I use the most on a daily basis is the job application module, with its core feature being the tracking of resume submissions. Moving forward, I want to enhance the ability to match resumes with job requirements. This will involve the following steps:
+Analysis of the recruitment process and the needs of each stage Resume Match evaluation Process adjustment 1 Analysis of the recruitment process and the needs of each stage Stage Goal Evaluation Criteria Resume Screening Initial screening to find candidates that meet basic job requirements Core skills Years of experience Education requirements Career objectives and cultural fit Initial/Phone Interview Further assess communication skills, motivation, and cultural fit Communication skills Career motivation Problem-solving ability Cultural fit Technical Assessment Evaluate candidates&amp;rsquo; technical proficiency and problem-solving skills Technical skills Problem-solving ability Project experience and technical expertise Behavioral/Deep Interview Assess leadership, teamwork, and deeper cultural fit Leadership Teamwork Cultural fit Handling challenges Final Interview/Decision Ensure long-term potential within the company and alignment of compensation expectations Overall competence Role expectations and company growth alignment Salary negotiation and benefits expectations 2 Resume Match evaluation the three most important aspects of a resume are :</description>
+    </item>
+    <item>
       <title>Create an Industrial Automation Solutions Website</title>
       <link>https://moloxiao.github.io/posts/create-an-industrial-automation-solutions-website/</link>
       <pubDate>Wed, 04 Sep 2024 15:43:08 +1200</pubDate>
@@ -145,14 +162,6 @@ interpreting results recommending actions for the business As AI tools become mo
       <description>When we want to accomplish something or achieve a goal, sometimes we succeed, and sometimes we face challenges. Can we find a method that makes it easier to succeed? My answer is PDCA(plan–do–check–adjust). Just do it, let it fail if necessary, and then find a new way to fix it.
 What is a system The goal of all science, is to substitute visible complexity for invisible simplicity.
 John Baptiste Perrin a system contains 5 part :</description>
-    </item>
-    <item>
-      <title>Chapter 1 : The fundamentals of Coaching</title>
-      <link>https://moloxiao.github.io/books/youth-sports-coaching/chapter1-the-fundamentals-of-coaching/</link>
-      <pubDate>Thu, 15 Aug 2024 10:53:43 +1200</pubDate>
-      <guid>https://moloxiao.github.io/books/youth-sports-coaching/chapter1-the-fundamentals-of-coaching/</guid>
-      <description>Coach is a misnormer. What you really are is a facilitator and teacher.
-As a facilitator: Ensure a good experience for the kids. As a teacher: Teach skills effectively. </description>
     </item>
     <item>
       <title>Application Integration : it&#39;s all about the adapter</title>
