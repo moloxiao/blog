@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Create a blog using Hugo | Shan&#39;s blog</title>
-<meta name="keywords" content="Website Building, Google Adsense, Google Analytics, Hugo">
+<meta name="keywords" content="Website Building, Google Adsense, Google Analytics, Hugo, SEO">
 <meta name="description" content="Just like you see, this blog you are visiting is created using Hugo and hosted on GitHub Pages. In the process of using Hugo, I researched a lot to answer my questions. Here are some common issues.
 How to Create Pages and Posts with Hugo Commands To create a new post in Hugo, you can use the following command:
 hugo new posts/your-post-title.md For example, if you want to create a new post titled &ldquo;my-first-post,&rdquo; you would run:">
@@ -104,10 +104,10 @@ hugo new posts/your-post-title.md For example, if you want to create a new post 
   "name": "Create a blog using Hugo",
   "description": "Just like you see, this blog you are visiting is created using Hugo and hosted on GitHub Pages. In the process of using Hugo, I researched a lot to answer my questions. Here are some common issues.\nHow to Create Pages and Posts with Hugo Commands To create a new post in Hugo, you can use the following command:\nhugo new posts/your-post-title.md For example, if you want to create a new post titled \u0026ldquo;my-first-post,\u0026rdquo; you would run:",
   "keywords": [
-    "Website Building", "Google Adsense", "Google Analytics", "Hugo"
+    "Website Building", "Google Adsense", "Google Analytics", "Hugo", "SEO"
   ],
-  "articleBody": "Just like you see, this blog you are visiting is created using Hugo and hosted on GitHub Pages. In the process of using Hugo, I researched a lot to answer my questions. Here are some common issues.\nHow to Create Pages and Posts with Hugo Commands To create a new post in Hugo, you can use the following command:\nhugo new posts/your-post-title.md For example, if you want to create a new post titled “my-first-post,” you would run:\nhugo new posts/my-first-post.md This command will create a file named my-first-post.md in the content/posts directory. The file will include predefined front matter, such as the title, date, and other metadata.\nEnsure that your Hugo project structure contains the content/posts directory. If it doesn’t, you can manually create the directory or adjust the command path according to your project’s structure.\nIf you want to create a new page instead of a post, you can modify the command path. For example, to create a new page:\nhugo new about.md This will create a file named about.md in the content directory.\nadd google analytics Update config.toml\nOpen your config.toml file. Add the Google Analytics parameter: [params] google_analytics = \"G-XXXXXXXX\" Locate and Edit baseof.html\nNavigate to “themes/your-theme-name/layouts/_default/”. Open baseof.html for editing : ... {{- partial \"head.html\" . }} {{- partial \"head.html\" . }} {{ if .Site.Params.google_analytics }} {{ end }} ... Configure Hugo to Generate a Sitemap Hugo has built-in support for generating XML sitemaps. You just need to enable it in your configuration file. Open your Hugo project’s configuration file config.toml(or config.yaml). Add or update the following configuration to enable the sitemap :\n[outputs] home = [\"HTML\", \"RSS\", \"SITEMAP\"] [sitemap] changefreq = \"monthly\" priority = 0.5 filename = \"sitemap.xml\" vist check :\nhttp://127.0.0.1:1313/sitemap.xml ",
-  "wordCount" : "310",
+  "articleBody": "Just like you see, this blog you are visiting is created using Hugo and hosted on GitHub Pages. In the process of using Hugo, I researched a lot to answer my questions. Here are some common issues.\nHow to Create Pages and Posts with Hugo Commands To create a new post in Hugo, you can use the following command:\nhugo new posts/your-post-title.md For example, if you want to create a new post titled “my-first-post,” you would run:\nhugo new posts/my-first-post.md This command will create a file named my-first-post.md in the content/posts directory. The file will include predefined front matter, such as the title, date, and other metadata.\nEnsure that your Hugo project structure contains the content/posts directory. If it doesn’t, you can manually create the directory or adjust the command path according to your project’s structure.\nIf you want to create a new page instead of a post, you can modify the command path. For example, to create a new page:\nhugo new about.md This will create a file named about.md in the content directory.\nadd google analytics Update config.toml\nOpen your config.toml file. Add the Google Analytics parameter: [params] google_analytics = \"G-XXXXXXXX\" Locate and Edit baseof.html\nNavigate to “themes/your-theme-name/layouts/_default/”. Open baseof.html for editing : ... {{- partial \"head.html\" . }} {{- partial \"head.html\" . }} {{ if .Site.Params.google_analytics }} {{ end }} ... Configure Hugo to Generate a Sitemap Hugo has built-in support for generating XML sitemaps. You just need to enable it in your configuration file. Open your Hugo project’s configuration file config.toml(or config.yaml). Add or update the following configuration to enable the sitemap :\n[outputs] home = [\"HTML\", \"RSS\", \"SITEMAP\"] [sitemap] changefreq = \"weekly\" priority = 0.5 filename = \"sitemap.xml\" vist check :\nhttp://127.0.0.1:1313/sitemap.xml To optimize your Hugo-based blog for SEO using Google Search Console and Bing Webmaster Tools :\nGoogle Search Console Bing Webmaster Tools ",
+  "wordCount" : "332",
   "inLanguage": "en",
   "datePublished": "2024-07-02T20:57:29+12:00",
   "dateModified": "2024-07-02T20:57:29+12:00",
@@ -254,12 +254,17 @@ Open your Hugo project’s configuration file config.toml(or config.yaml). Add o
   home = [&#34;HTML&#34;, &#34;RSS&#34;, &#34;SITEMAP&#34;]
 
 [sitemap]
-  changefreq = &#34;monthly&#34;
+  changefreq = &#34;weekly&#34;
   priority = 0.5
   filename = &#34;sitemap.xml&#34;
 </code></pre><p>vist check :</p>
 <pre tabindex="0"><code>http://127.0.0.1:1313/sitemap.xml
-</code></pre>
+</code></pre><p>To optimize your Hugo-based blog for SEO using Google Search Console and Bing Webmaster Tools :</p>
+<ul>
+<li><a href="https://search.google.com/search-console">Google Search Console</a></li>
+<li><a href="https://www.bing.com/webmasters/">Bing Webmaster Tools</a></li>
+</ul>
+
 
   </div>
 
@@ -269,6 +274,7 @@ Open your Hugo project’s configuration file config.toml(or config.yaml). Add o
       <li><a href="https://moloxiao.github.io/tags/google-adsense/">Google Adsense</a></li>
       <li><a href="https://moloxiao.github.io/tags/google-analytics/">Google Analytics</a></li>
       <li><a href="https://moloxiao.github.io/tags/hugo/">Hugo</a></li>
+      <li><a href="https://moloxiao.github.io/tags/seo/">SEO</a></li>
     </ul>
   </footer>
 </article>
