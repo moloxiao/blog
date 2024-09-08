@@ -6,8 +6,16 @@
     <description>Recent content in SEO on Shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2024 20:57:29 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 10:14:57 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting a blog accepted by Google AdSense</title>
+      <link>https://moloxiao.github.io/posts/getting-a-blog-accepted-by-google-adsense/</link>
+      <pubDate>Thu, 04 Jul 2024 10:14:57 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/getting-a-blog-accepted-by-google-adsense/</guid>
+      <description>When I first tried to sign up for Google AdSense, I got turned down. Here are the reasons why(the reasons Google gave for turning me down) :
+We do not allow Google-served ads on screens: without content or with low value content, that are under construction, that are used for alerts, navigation or other behavioural purposes. So Getting a blog accepted by Google AdSense means you need to creating high quality sites.</description>
+    </item>
     <item>
       <title>Create a blog using Hugo</title>
       <link>https://moloxiao.github.io/posts/create-a-blog-using-hugo/</link>

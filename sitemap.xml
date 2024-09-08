@@ -272,6 +272,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://moloxiao.github.io/tags/seo/</loc>
+    <lastmod>2024-07-04T10:14:57+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moloxiao.github.io/tags/website-building/</loc>
     <lastmod>2024-07-04T10:14:57+12:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -328,11 +333,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/tags/hugo/</loc>
-    <lastmod>2024-07-02T20:57:29+12:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/tags/seo/</loc>
     <lastmod>2024-07-02T20:57:29+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

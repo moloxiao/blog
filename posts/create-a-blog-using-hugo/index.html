@@ -106,8 +106,8 @@ hugo new posts/your-post-title.md For example, if you want to create a new post 
   "keywords": [
     "Website Building", "Google Adsense", "Google Analytics", "Hugo", "SEO"
   ],
-  "articleBody": "Just like you see, this blog you are visiting is created using Hugo and hosted on GitHub Pages. In the process of using Hugo, I researched a lot to answer my questions. Here are some common issues.\nHow to Create Pages and Posts with Hugo Commands To create a new post in Hugo, you can use the following command:\nhugo new posts/your-post-title.md For example, if you want to create a new post titled “my-first-post,” you would run:\nhugo new posts/my-first-post.md This command will create a file named my-first-post.md in the content/posts directory. The file will include predefined front matter, such as the title, date, and other metadata.\nEnsure that your Hugo project structure contains the content/posts directory. If it doesn’t, you can manually create the directory or adjust the command path according to your project’s structure.\nIf you want to create a new page instead of a post, you can modify the command path. For example, to create a new page:\nhugo new about.md This will create a file named about.md in the content directory.\nadd google analytics Update config.toml\nOpen your config.toml file. Add the Google Analytics parameter: [params] google_analytics = \"G-XXXXXXXX\" Locate and Edit baseof.html\nNavigate to “themes/your-theme-name/layouts/_default/”. Open baseof.html for editing : ... {{- partial \"head.html\" . }} {{- partial \"head.html\" . }} {{ if .Site.Params.google_analytics }} {{ end }} ... Configure Hugo to Generate a Sitemap Hugo has built-in support for generating XML sitemaps. You just need to enable it in your configuration file. Open your Hugo project’s configuration file config.toml(or config.yaml). Add or update the following configuration to enable the sitemap :\n[outputs] home = [\"HTML\", \"RSS\", \"SITEMAP\"] [sitemap] changefreq = \"weekly\" priority = 0.5 filename = \"sitemap.xml\" vist check :\nhttp://127.0.0.1:1313/sitemap.xml To optimize your Hugo-based blog for SEO using Google Search Console and Bing Webmaster Tools :\nGoogle Search Console Bing Webmaster Tools ",
-  "wordCount" : "332",
+  "articleBody": "Just like you see, this blog you are visiting is created using Hugo and hosted on GitHub Pages. In the process of using Hugo, I researched a lot to answer my questions. Here are some common issues.\nHow to Create Pages and Posts with Hugo Commands To create a new post in Hugo, you can use the following command:\nhugo new posts/your-post-title.md For example, if you want to create a new post titled “my-first-post,” you would run:\nhugo new posts/my-first-post.md This command will create a file named my-first-post.md in the content/posts directory. The file will include predefined front matter, such as the title, date, and other metadata.\nEnsure that your Hugo project structure contains the content/posts directory. If it doesn’t, you can manually create the directory or adjust the command path according to your project’s structure.\nIf you want to create a new page instead of a post, you can modify the command path. For example, to create a new page:\nhugo new about.md This will create a file named about.md in the content directory.\nadd google analytics Update config.toml\nOpen your config.toml file. Add the Google Analytics parameter: [params] google_analytics = \"G-XXXXXXXX\" Locate and Edit baseof.html\nNavigate to “themes/your-theme-name/layouts/_default/”. Open baseof.html for editing : ... {{- partial \"head.html\" . }} {{- partial \"head.html\" . }} {{ if .Site.Params.google_analytics }} {{ end }} ... Configure Hugo to Generate a Sitemap Hugo has built-in support for generating XML sitemaps. You just need to enable it in your configuration file. Open your Hugo project’s configuration file config.toml(or config.yaml). Add or update the following configuration to enable the sitemap :\n[outputs] home = [\"HTML\", \"RSS\", \"SITEMAP\"] [sitemap] changefreq = \"weekly\" priority = 0.5 filename = \"sitemap.xml\" vist check :\nhttp://127.0.0.1:1313/sitemap.xml To optimize your Hugo-based blog for SEO using Google Search Console and Bing Webmaster Tools :\nGoogle Search Console Bing Webmaster Tools Changelog 2024-09-09 resubmit Google AdSense 2024-09-09 add Bing Webmaster Tools 2024-07-04 submit Google AdSense, reject 2024-07-02 add google search console 2024-07-02 add google analytics 2024-07-01 create blog ",
+  "wordCount" : "359",
   "inLanguage": "en",
   "datePublished": "2024-07-02T20:57:29+12:00",
   "dateModified": "2024-07-02T20:57:29+12:00",
@@ -263,6 +263,15 @@ Open your Hugo project’s configuration file config.toml(or config.yaml). Add o
 <ul>
 <li><a href="https://search.google.com/search-console">Google Search Console</a></li>
 <li><a href="https://www.bing.com/webmasters/">Bing Webmaster Tools</a></li>
+</ul>
+<h1 id="changelog">Changelog<a hidden class="anchor" aria-hidden="true" href="#changelog">#</a></h1>
+<ul>
+<li>2024-09-09 resubmit Google AdSense</li>
+<li>2024-09-09 add Bing Webmaster Tools</li>
+<li>2024-07-04 submit Google AdSense, <strong>reject</strong></li>
+<li>2024-07-02 add google search console</li>
+<li>2024-07-02 add google analytics</li>
+<li>2024-07-01 create blog</li>
 </ul>
 
 
