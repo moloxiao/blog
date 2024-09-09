@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2024 09:14:29 +1200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 15:01:22 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relational Databases and Normalization</title>
+      <link>https://moloxiao.github.io/posts/relational-databases-and-normalization/</link>
+      <pubDate>Mon, 09 Sep 2024 15:01:22 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/relational-databases-and-normalization/</guid>
+      <description>Two-dimensional data is the most commonly used form of information representation by humans. In 1970, Edgar F. Codd first introduced how to efficiently use two-dimensional data to represent transactions, laying the foundation for modern databases.
+The core of this theory is: normalization.
+Let’s demonstrate how database normalization helps us build a better two-dimensional data model through an example.
+1 Scenario We have a system that tracks students registering for courses at a technical institute.</description>
+    </item>
     <item>
       <title>Customize Your Resume According to the Job Description</title>
       <link>https://moloxiao.github.io/posts/customize-your-resume-according-to-the-job-description/</link>
