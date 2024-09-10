@@ -13,10 +13,7 @@
       <link>https://moloxiao.github.io/posts/relational-databases-and-normalization/</link>
       <pubDate>Mon, 09 Sep 2024 15:01:22 +1200</pubDate>
       <guid>https://moloxiao.github.io/posts/relational-databases-and-normalization/</guid>
-      <description>Two-dimensional data is the most commonly used form of information representation by humans. In 1970, Edgar F. Codd first introduced how to efficiently use two-dimensional data to represent transactions, laying the foundation for modern databases.
-The core of this theory is: normalization.
-Let’s demonstrate how database normalization helps us build a better two-dimensional data model through an example.
-1 Scenario We have a system that tracks students registering for courses at a technical institute.</description>
+      <description>Normalization forms the foundation of relational databases. In this article, we walk through an example, applying 1NF, 2NF, and 3NF step by step, illustrating how normalization guides the design of a well-structured relational table.</description>
     </item>
   </channel>
 </rss>

@@ -57,12 +57,32 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/tags/database/</loc>
-    <lastmod>2024-09-09T15:01:22+12:00</lastmod>
+    <loc>https://moloxiao.github.io/tags/cornerstonecongregational.org/</loc>
+    <lastmod>2024-09-10T15:11:01+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/posts/essential-tools-and-tips-for-daily-church-website-management/</loc>
+    <lastmod>2024-09-10T15:11:01+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/posts/</loc>
+    <lastmod>2024-09-10T15:11:01+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/</loc>
+    <lastmod>2024-09-10T15:11:01+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/</loc>
+    <lastmod>2024-09-10T15:11:01+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/database/</loc>
     <lastmod>2024-09-09T15:01:22+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -72,17 +92,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/</loc>
-    <lastmod>2024-09-09T15:01:22+12:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://moloxiao.github.io/tags/sql/</loc>
-    <lastmod>2024-09-09T15:01:22+12:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/tags/</loc>
     <lastmod>2024-09-09T15:01:22+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -208,11 +218,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/tags/cloudflare/</loc>
-    <lastmod>2024-08-07T15:29:03+12:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/tags/conerstonechurch.org/</loc>
     <lastmod>2024-08-07T15:29:03+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

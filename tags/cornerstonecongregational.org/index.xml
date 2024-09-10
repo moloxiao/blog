@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cloudflare on Shan&#39;s blog</title>
-    <link>https://moloxiao.github.io/tags/cloudflare/</link>
-    <description>Recent content in Cloudflare on Shan&#39;s blog</description>
+    <title>Cornerstonecongregational.org on Shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/cornerstonecongregational.org/</link>
+    <description>Recent content in Cornerstonecongregational.org on Shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2024 15:29:03 +1200</lastBuildDate>
-    <atom:link href="https://moloxiao.github.io/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Sep 2024 15:11:01 +1200</lastBuildDate>
+    <atom:link href="https://moloxiao.github.io/tags/cornerstonecongregational.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essential Tools and Tips for Daily Church Website Management</title>
+      <link>https://moloxiao.github.io/posts/essential-tools-and-tips-for-daily-church-website-management/</link>
+      <pubDate>Tue, 10 Sep 2024 15:11:01 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/essential-tools-and-tips-for-daily-church-website-management/</guid>
+      <description>Toolset for Daily Management of CornerstoneCongregational.org</description>
+    </item>
     <item>
       <title>How to Set Up Google Analytics a Step by Step Guide to Getting Your Measurement Id</title>
       <link>https://moloxiao.github.io/posts/how-to-set-up-google-analytics-a-step-by-step-guide-to-getting-your-measurement-id/</link>
@@ -25,13 +32,6 @@ Create a New Property Get the Measurement ID and Send It to Your Software Engine
       <description>Managing your domain through Cloudflare offers numerous benefits, including enhanced security, improved website performance, and easy DNS management. These are not the most important factors. The main reason is that you might need my help with day-to-day management, and personally, I prefer Cloudflare.
 If you have a domain registered with GoDaddy and want to move it to Cloudflare, follow this detailed step-by-step guide.
 Step 1: Create a Cloudflare Account and Add Your Site Create a Cloudflare Account Visit the Cloudflare website.</description>
-    </item>
-    <item>
-      <title>Minified React Error #130</title>
-      <link>https://moloxiao.github.io/posts/minified-react-error-%23130/</link>
-      <pubDate>Fri, 19 Jul 2024 15:57:51 +1200</pubDate>
-      <guid>https://moloxiao.github.io/posts/minified-react-error-%23130/</guid>
-      <description>how to fix Minified React error #130</description>
     </item>
   </channel>
 </rss>
