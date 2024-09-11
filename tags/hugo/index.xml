@@ -13,9 +13,7 @@
       <link>https://moloxiao.github.io/posts/create-a-blog-using-hugo/</link>
       <pubDate>Tue, 02 Jul 2024 20:57:29 +1200</pubDate>
       <guid>https://moloxiao.github.io/posts/create-a-blog-using-hugo/</guid>
-      <description>Just like you see, this blog you are visiting is created using Hugo and hosted on GitHub Pages. In the process of using Hugo, I researched a lot to answer my questions. Here are some common issues.
-How to Create Pages and Posts with Hugo Commands To create a new post in Hugo, you can use the following command:
-hugo new posts/your-post-title.md For example, if you want to create a new post titled &amp;ldquo;my-first-post,&amp;rdquo; you would run:</description>
+      <description>How I create my blog using Hugo. How to create a blog using Hugo.</description>
     </item>
   </channel>
 </rss>
