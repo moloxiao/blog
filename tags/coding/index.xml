@@ -6,8 +6,15 @@
     <description>Recent content in Coding on Shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2024 10:53:43 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 10:53:23 +1200</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Write Code Using AI Assistance</title>
+      <link>https://moloxiao.github.io/posts/how-to-write-code-using-ai-assistance/</link>
+      <pubDate>Wed, 11 Sep 2024 10:53:23 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/how-to-write-code-using-ai-assistance/</guid>
+      <description>how to write code Using AI-assistance By Andrew Ng. This is Shan&amp;#39;s notes. </description>
+    </item>
     <item>
       <title>Application Integration : it&#39;s all about the adapter</title>
       <link>https://moloxiao.github.io/posts/application-integration/</link>
