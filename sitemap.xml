@@ -57,6 +57,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://moloxiao.github.io/posts/</loc>
+    <lastmod>2024-09-13T15:18:16+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/</loc>
+    <lastmod>2024-09-13T15:18:16+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moloxiao.github.io/tags/ai/</loc>
     <lastmod>2024-09-11T10:53:23+12:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,16 +78,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/posts/how-to-write-code-using-ai-assistance/</loc>
-    <lastmod>2024-09-11T10:53:23+12:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/posts/</loc>
-    <lastmod>2024-09-11T10:53:23+12:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/</loc>
     <lastmod>2024-09-11T10:53:23+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -112,17 +112,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/posts/customize-your-resume-according-to-the-job-description/</loc>
-    <lastmod>2024-09-05T09:14:29+12:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://moloxiao.github.io/tags/job/</loc>
-    <lastmod>2024-09-05T09:14:29+12:00</lastmod>
+    <lastmod>2024-09-07T21:30:07+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/tags/resumemanager/</loc>
+    <lastmod>2024-09-07T21:30:07+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/posts/weekly-summary-framework-for-resume-submissions/</loc>
+    <lastmod>2024-09-07T21:30:07+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/posts/customize-your-resume-according-to-the-job-description/</loc>
     <lastmod>2024-09-05T09:14:29+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

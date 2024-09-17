@@ -131,6 +131,13 @@ identify improvement areas Conduct production simulations to evaluate performanc
       <description>Normalization forms the foundation of relational databases. In this article, we walk through an example, applying 1NF, 2NF, and 3NF step by step, illustrating how normalization guides the design of a well-structured relational table.</description>
     </item>
     <item>
+      <title>Weekly Summary Framework for Resume Submissions</title>
+      <link>https://moloxiao.github.io/posts/weekly-summary-framework-for-resume-submissions/</link>
+      <pubDate>Sat, 07 Sep 2024 21:30:07 +1200</pubDate>
+      <guid>https://moloxiao.github.io/posts/weekly-summary-framework-for-resume-submissions/</guid>
+      <description>Sometimes it takes a long time to find a job, and you might feel discouraged, but the most important thing is to keep going. A weekly summary can help you stay on track and not give up. This is the method I used.</description>
+    </item>
+    <item>
       <title>Customize Your Resume According to the Job Description</title>
       <link>https://moloxiao.github.io/posts/customize-your-resume-according-to-the-job-description/</link>
       <pubDate>Thu, 05 Sep 2024 09:14:29 +1200</pubDate>
@@ -263,8 +270,7 @@ Steps to Manually Create Custom Code Snippets Open VSCode Settings First, open V
       <link>https://moloxiao.github.io/posts/getting-a-blog-accepted-by-google-adsense/</link>
       <pubDate>Thu, 04 Jul 2024 10:14:57 +1200</pubDate>
       <guid>https://moloxiao.github.io/posts/getting-a-blog-accepted-by-google-adsense/</guid>
-      <description>When I first tried to sign up for Google AdSense, I got turned down. Here are the reasons why(the reasons Google gave for turning me down) :
-We do not allow Google-served ads on screens: without content or with low value content, that are under construction, that are used for alerts, navigation or other behavioural purposes. So Getting a blog accepted by Google AdSense means you need to creating high quality sites.</description>
+      <description>Getting a blog accepted by Google AdSense.</description>
     </item>
     <item>
       <title>Use Yolo to Analyze Youth Football Matches</title>

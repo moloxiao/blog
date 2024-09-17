@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IT on Shan&#39;s blog</title>
+    <link>http://localhost:1313/tags/it/</link>
+    <description>Recent content in IT on Shan&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2024 15:18:16 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing the Roles in It</title>
+      <link>http://localhost:1313/posts/introducing-the-roles-in-it/</link>
+      <pubDate>Fri, 13 Sep 2024 15:18:16 +1200</pubDate>
+      <guid>http://localhost:1313/posts/introducing-the-roles-in-it/</guid>
+      <description>Introducing Roles in IT: Tasks and Essential Skills.</description>
+    </item>
+  </channel>
+</rss>
