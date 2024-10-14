@@ -17,6 +17,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://moloxiao.github.io/books/working-as-a-/chapter1-working-as-a-housekeeper/</loc>
+    <lastmod>2024-08-15T10:53:43+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moloxiao.github.io/books/system-administration-and-it-infrastructure-services/what-is-system-administration/</loc>
     <lastmod>2024-08-21T11:30:43+12:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -57,8 +62,33 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://moloxiao.github.io/tags/childeducation/</loc>
+    <lastmod>2024-10-14T22:05:28+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/education/</loc>
+    <lastmod>2024-10-14T22:05:28+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/posts/how-to-build-confidence-in-your-kids/</loc>
+    <lastmod>2024-10-14T22:05:28+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moloxiao.github.io/posts/</loc>
-    <lastmod>2024-10-13T17:12:19+13:00</lastmod>
+    <lastmod>2024-10-14T22:05:28+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/</loc>
+    <lastmod>2024-10-14T22:05:28+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/</loc>
+    <lastmod>2024-10-14T22:05:28+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -67,17 +97,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/</loc>
-    <lastmod>2024-10-13T17:12:19+13:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://moloxiao.github.io/tags/sideproject/</loc>
-    <lastmod>2024-10-13T17:12:19+13:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/tags/</loc>
     <lastmod>2024-10-13T17:12:19+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -229,6 +249,11 @@
   </url><url>
     <loc>https://moloxiao.github.io/tags/systemthinking/</loc>
     <lastmod>2024-08-20T15:40:20+12:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/books/working-as-a-/</loc>
+    <lastmod>2024-08-15T10:53:43+12:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
