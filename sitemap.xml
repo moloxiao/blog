@@ -62,27 +62,37 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://moloxiao.github.io/posts/</loc>
+    <lastmod>2024-11-12T15:30:57+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/posts/reading-notes-series-1-achieving-rapid-response-times/</loc>
+    <lastmod>2024-11-12T15:30:57+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/readingnotes/</loc>
+    <lastmod>2024-11-12T15:30:57+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/</loc>
+    <lastmod>2024-11-12T15:30:57+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/</loc>
+    <lastmod>2024-11-12T15:30:57+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://moloxiao.github.io/posts/how-i-prepared-for-the-pte-test/</loc>
     <lastmod>2024-11-07T15:10:00+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/posts/</loc>
-    <lastmod>2024-11-07T15:10:00+13:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://moloxiao.github.io/tags/pte/</loc>
-    <lastmod>2024-11-07T15:10:00+13:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/</loc>
-    <lastmod>2024-11-07T15:10:00+13:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/tags/</loc>
     <lastmod>2024-11-07T15:10:00+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
