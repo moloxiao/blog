@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ShanThinking on Shan&#39;s blog</title>
+    <link>https://moloxiao.github.io/tags/shanthinking/</link>
+    <description>Recent content in ShanThinking on Shan&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2024 15:25:30 +1300</lastBuildDate>
+    <atom:link href="https://moloxiao.github.io/tags/shanthinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can We Make a Simple Software</title>
+      <link>https://moloxiao.github.io/posts/can-we-make-a-simple-software/</link>
+      <pubDate>Tue, 03 Dec 2024 15:25:30 +1300</pubDate>
+      <guid>https://moloxiao.github.io/posts/can-we-make-a-simple-software/</guid>
+      <description>Can We Make a Simple Software or Why Can&amp;#39;t We Make Simple Software? Let&amp;#39;s talk about it from Complexity.</description>
+    </item>
+  </channel>
+</rss>
