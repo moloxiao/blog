@@ -192,6 +192,21 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">How to Fix Replicate Run Error Readablestream in Nextjs
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>If you try to use Replicate’s Node.js client follow by model pages, like this :
+const output = await replicate.run(&#34;black-forest-labs/flux-schnell&#34;, { input }); console.log(output[0]); you will get result :
+ReadableStream { locked: false, state: &#39;readable&#39;, supportsBYOB: false }. You need change to :
+const [output] = await replicate.run(model, { input }); console.log(output.url()); More information check doc.</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-12-05 18:53:31 +1300 NZDT'>December 5, 2024</span></footer>
+  <a class="entry-link" aria-label="post link to How to Fix Replicate Run Error Readablestream in Nextjs" href="https://moloxiao.github.io/posts/how-to-fix-replicate-run-error-readablestream-in-nextjs/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">Can We Make a Simple Software
     </h2>
   </header>
@@ -315,20 +330,6 @@ This course is designed for people with zero coding experience to try coding wit
   </div>
   <footer class="entry-footer"><span title='2024-09-11 10:53:23 +1200 NZST'>September 11, 2024</span></footer>
   <a class="entry-link" aria-label="post link to How to Write Code Using AI Assistance" href="https://moloxiao.github.io/posts/how-to-write-code-using-ai-assistance/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Essential Tools and Tips for Daily Church Website Management
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, Sep 10, we’re excited to officially launch cornerstonecongregational.org, the new website for CornerStone Congregational Church! Our address is 16 Collins Avenue, Tawa, Wellington 5028. We warmly welcome everyone to join us for our Sunday Service at 10:30 AM.
-Pastor Tale &amp; Seo
-This post provides a summary of the commonly used tools and quick links for managing the CornerStone Congregational Church website, along with an introduction to the basic guidelines for effective website administration....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-09-10 15:11:01 +1200 NZST'>September 10, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Essential Tools and Tips for Daily Church Website Management" href="https://moloxiao.github.io/posts/essential-tools-and-tips-for-daily-church-website-management/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Shan&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2024 15:25:30 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:53:31 +1300</lastBuildDate>
     <atom:link href="https://moloxiao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix Replicate Run Error Readablestream in Nextjs</title>
+      <link>https://moloxiao.github.io/posts/how-to-fix-replicate-run-error-readablestream-in-nextjs/</link>
+      <pubDate>Thu, 05 Dec 2024 18:53:31 +1300</pubDate>
+      <guid>https://moloxiao.github.io/posts/how-to-fix-replicate-run-error-readablestream-in-nextjs/</guid>
+      <description>Fix the error when using the Replicate Node.js client in a Next.js application to retrieve the URL response.</description>
+    </item>
     <item>
       <title>Can We Make a Simple Software</title>
       <link>https://moloxiao.github.io/posts/can-we-make-a-simple-software/</link>

@@ -62,17 +62,37 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://moloxiao.github.io/posts/can-we-make-a-simple-software/</loc>
-    <lastmod>2024-12-03T15:25:30+13:00</lastmod>
+    <loc>https://moloxiao.github.io/posts/how-to-fix-replicate-run-error-readablestream-in-nextjs/</loc>
+    <lastmod>2024-12-05T18:53:31+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/nextjs/</loc>
+    <lastmod>2024-12-05T18:53:31+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/posts/</loc>
-    <lastmod>2024-12-03T15:25:30+13:00</lastmod>
+    <lastmod>2024-12-05T18:53:31+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/replicate/</loc>
+    <lastmod>2024-12-05T18:53:31+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/</loc>
+    <lastmod>2024-12-05T18:53:31+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/tags/</loc>
+    <lastmod>2024-12-05T18:53:31+13:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://moloxiao.github.io/posts/can-we-make-a-simple-software/</loc>
     <lastmod>2024-12-03T15:25:30+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -83,11 +103,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://moloxiao.github.io/tags/software/</loc>
-    <lastmod>2024-12-03T15:25:30+13:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://moloxiao.github.io/tags/</loc>
     <lastmod>2024-12-03T15:25:30+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
